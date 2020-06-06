@@ -1,3 +1,6 @@
+> **NOTE! This app is deprecated. Please use [mysterium-vpn-desktop](https://github.com/mysteriumnetwork/mysterium-vpn-desktop) instead!**
+
+
 # Mysterium VPN - decentralized VPN built on blockchain
 
 [![Build Status](https://travis-ci.com/mysteriumnetwork/mysterium-vpn.svg?branch=master)](https://travis-ci.com/mysteriumnetwork/mysterium-vpn)
